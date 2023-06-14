@@ -12,6 +12,6 @@ public class Summain {
         Sum obj=new Sum();
         obj.setX(10);
         obj.setY(15);
-        System.out.println("The sum of "+ob.getX()+" and "+ob.getY()+" is : "+ob.getsum());
+        System.out.println("The sum of "+ob.getX()+" and "+ob.getY()+" is : "+ob.getSum());
     }
 }
